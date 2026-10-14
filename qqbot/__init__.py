@@ -1,0 +1,1 @@
+"""QQ order assistant."""

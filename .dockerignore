@@ -1,0 +1,9 @@
+.git
+.env
+.venv
+data
+outputs
+tests
+node_modules
+__pycache__
+.tmp
